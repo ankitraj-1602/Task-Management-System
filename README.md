@@ -15,9 +15,4 @@ The **Task Management System** is a web application that allows users to create,
 - **Styling**: CSS Modules
 - **Local Storage**: Browser's local storage for data persistence
 
-## Getting Started
-
-### Prerequisites
-- Node.js (v14 or later)
-- npm (Node Package Manager)
 
