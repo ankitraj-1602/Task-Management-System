@@ -21,8 +21,3 @@ The **Task Management System** is a web application that allows users to create,
 - Node.js (v14 or later)
 - npm (Node Package Manager)
 
-### Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/task-management-system.git
